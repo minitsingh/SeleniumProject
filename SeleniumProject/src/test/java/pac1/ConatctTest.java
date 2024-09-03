@@ -24,6 +24,12 @@ public class ConatctTest {
 	{
 		System.out.println("execute modifyConatctTest");
 	}
+	
+	@Test
+	public void deleteConatctTest()
+	{
+		System.out.println("execute deleteConatctTest");
+	}
 
 
 }
